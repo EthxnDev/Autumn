@@ -1,0 +1,78 @@
+# Authors: PceLmao & engo
+# Report bugs in our discord dms, PceLmao#6601 & engo#0320
+
+Prefix: "&7[&6&lAutumn&7] "
+
+# This matches with your prefix.
+Secondary-Colour: "&6"
+
+# This is to choose most of the text colour (I recommend using gray)
+Third-Colour: "&7"
+
+Commands:
+  Help:
+    Message:
+      - '&6----------------------'
+      - '&3/kill to kill yourself'
+      - '&3/discord To see our Discord'
+      - '&3/uniquejoins To see our Unique Joins'
+      - '&3/gettps To check our servers TPS'
+      - '&3This is the default help message for the plugin'
+      - '&3Customise this in the config.yml.'
+      - '&6----------------------'
+
+# This is where you can put your discord link and will show~
+# when a player does the /discord command.
+
+Discord: "discord.gg/Autumn"
+
+# Configuration for join messages!
+# %prefix% for the prefix and %player% for the player name
+Joins:
+  JoinMessages:
+    Enabled: true
+    Message: "&7%player% has joined."
+  NewsMessages:
+    Enabled: true
+    Message: "%prefix%&7Welcome %player%! This server uses Autumn Core Plugin!"
+
+Quits:
+  QuitMessages:
+    Enabled: true
+    Message: "&7%player% has quit."
+
+#! Configuration for patches
+
+Illegals:
+  Enabled: true
+  OPsBypass: false
+
+Anti32k:
+  Enabled: true
+  OPsBypass: false
+
+Elytra:
+  Enabled: true
+  DisableTPS: 14
+  KickAmount: 5 # How many warnings it will give the player before kicking them from the server.
+
+Redstone:
+  Enabled: true
+  DisableTPS: 14
+  MaxLeverCPS: 3
+
+Chat:
+#The Enabled setting is if you want to enable a chat-cooldown..
+  Enabled: true
+  Message-Cooldown: 1
+  Kick: true
+
+# EntityLimit is the max amount of falling sand/gravel in one chunk.
+SandLag:
+  Enabled: true
+  EntityLimit: 20
+
+#CharacterLimit is the max amount of characters per book possible. (Prevents the BookBan & BookLag Exploits)
+Books:
+  Enabled: true
+  CharacterLimit: 10 # Set to -1 to disable
