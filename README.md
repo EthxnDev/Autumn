@@ -37,10 +37,3 @@ This is a plugin that patches various exploits in the anarchy enviroment.
 
 - /say - requires operator status
 - Lag Machines - sends a message in chat with the name of the player in the region of a lag machine. Requires operator status.
-
-
-
-
-
-[![MIT License](https://img.shields.io/amo/dw/autumn1)]()
-
