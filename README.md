@@ -42,9 +42,5 @@ This is a plugin that patches various exploits in the anarchy enviroment.
 
 
 
-[![MIT License](https://img.shields.io/amo/dw/autumn1)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![MIT License](https://img.shields.io/amo/dw/autumn1)]()
 
-
-![Logo](https://image.similarpng.com/very-thumbnail/2020/08/Autumn-Handwriting-Lettering-with-Fall-leaf-on-transparent-background-PNG.png)
