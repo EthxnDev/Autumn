@@ -12,6 +12,10 @@ This is a plugin that patches various exploits in the anarchy enviroment.
 
 ## Features
 
+- Patches water lag
+- Vanish Command
+- Anti-Projectile Lag patched
+- Dupe Command
 - Patches sand lag
 - Prevents redstone lag machines
 - Anti-Spam with a customizable cooldown and kick
@@ -32,8 +36,10 @@ This is a plugin that patches various exploits in the anarchy enviroment.
 - /uniquejoins - shows how many players have logged on the server before
 - /autumn - shows the version of our plugin
 - /say - Allows you to send a message through the plugins prefix
+- /vanish - Allows you to vanish
 
 ## Permissions
 
 - /say - requires operator status
-- Lag Machines - sends a message in chat with the name of the player in the region of a lag machine. Requires operator status.
+- /vanish - requires autumn.vanish permission
+- /dupe - requires operator status
