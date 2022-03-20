@@ -22,10 +22,12 @@ This is a plugin that patches various exploits in the anarchy environment.
 - Removes illegal potion effects from players.
 - Disables Elytras under a certain TPS (customizable)
 - Prevents book-bans and book-lag
-- Anti 32k'
+- Anti 32k
 - Anti-Illegals
 - Customizable join messages
 - Customizable quit messages
+- Option to force a players gamemode when they leave the server
+- Forcibly deop a player that was op when they leave the server
 
 ## Commands
 
