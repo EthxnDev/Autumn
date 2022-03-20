@@ -26,8 +26,8 @@ This is a plugin that patches various exploits in the anarchy environment.
 - Anti-Illegals
 - Customizable join messages
 - Customizable quit messages
-- Option to force a players gamemode when they leave the server
-- Forcibly deop a player that was op when they leave the server
+- Force a players gamemode when they leave the server (optional)
+- Forcibly deop a player that was op when they leave the server (optional)
 
 ## Commands
 
