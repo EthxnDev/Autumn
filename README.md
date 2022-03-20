@@ -1,6 +1,6 @@
 # Autumn Anarchy Core v1.03b
 
-This is a plugin that patches various exploits in the anarchy enviroment. 
+This is a plugin that patches various exploits in the anarchy environment.
 
 
 
